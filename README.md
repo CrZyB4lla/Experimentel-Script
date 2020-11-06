@@ -28,6 +28,6 @@ Fahrzeugsystem:
 
 Firmensystem:
   - Eigene Firmen erstellen/verwalten[]
-  -Firmenkonto einrichten[]
-  -Firmenmaschinen[]
-  -Skillmöglichkeit für Firmen[]
+    -Firmenkonto einrichten[]
+    -Firmenmaschinen[]
+    -Skillmöglichkeit für Firmen[]
