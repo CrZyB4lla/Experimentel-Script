@@ -27,5 +27,5 @@ Fahrzeugsystem:
   -Verschiedene Jobs[]
 
 Firmensystem:
-  - Eigene Firmen erstellen/verwalten []
-  -Firmenkonto einrichten []
+  - Eigene Firmen erstellen/verwalten[]
+    -Firmenkonto einrichten []
