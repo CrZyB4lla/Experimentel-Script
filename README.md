@@ -27,7 +27,7 @@ Fahrzeugsystem:
   -Verschiedene Jobs[]
 
 Firmensystem:
-  -Eigene Firmen erstellen/verwalten[]
-    -Firmenkonto einrichten[]
-    -Firmenmaschinen[]
-    -Skillmöglichkeit für Firmen[]
+  - Eigene Firmen erstellen/verwalten[]
+  - Firmenkonto einrichten[]
+  - Firmenmaschinen[]
+  - Skillmöglichkeit für Firmen[]
