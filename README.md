@@ -21,10 +21,11 @@ Fahrzeugsystem:
  Statsfraktionssystem:
   - LSPD,LSDM Aktensystem-Computer[]
   - Cop-Systeme[]
-  -LSMD-Systeme[]
+  - LSMD-Systeme[]
   
  Jobsystem:
-  -Verschiedene Jobs[]
+  - Verschiedene Jobs[]
+  - Skillmöglichkeit[]
 
 Firmensystem:
   - Eigene Firmen erstellen/verwalten[]
