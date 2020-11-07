@@ -32,3 +32,11 @@ Firmensystem:
   - Firmenkonto einrichten[]
   - Firmenmaschinen[]
   - Skillmöglichkeit für Firmen[]
+  
+  
+  
+Wirtschaftssystem:
+  - Jobgehälter[]
+  - Gehälter der Staatsfraktion[]
+  - Geld für Gangs[]
+  - Autopreise[]
